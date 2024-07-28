@@ -20,6 +20,6 @@ This project involves creating a responsive and visually appealing landing page 
 
  **Clone the repository**:
    ```bash
-   git clone https://github.com/Dev-patra/CODSOFT.git
+   git clone https://github.com/Dev-patra/CODSOFT-TASK-1-LandingPage.git
 
 
