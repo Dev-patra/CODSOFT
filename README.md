@@ -16,7 +16,7 @@ This project involves creating a responsive and visually appealing landing page 
 - A web browser (Chrome)
 - A code editor (Visual Studio Code)
 
-### Installation
+
 
  **Clone the repository**:
    ```bash
